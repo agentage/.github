@@ -3,7 +3,8 @@
 Build AI agents with minimal code—just composable reusable packages. More details in [agentage.io](https://agentage.io).
 
 ---
-- **[cli](https://github.com/agentage/cli)** – Cli tool for Agentage
-- **[agentkit](https://github.com/agentage/agentkit)** – Simple toolkit (core + SDK)
-- **[agentage.io](https://agentage.io)** – Simple marketplace, docs, playground
+- **[agentage.io](https://agentage.io)** - Simple marketplace, docs, playground
+- **[agentkit](https://github.com/agentage/agentkit)** - Simple toolkit (core + SDK)
+- **[desktop](https://github.com/agentage/desktop)** - Electron desktop app for running and managing agents
+- **[cli](https://github.com/agentage/cli)** - Cli tool for Agentage
 ---
