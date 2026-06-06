@@ -1,10 +1,11 @@
-**AI agents as simple as writing documentation**
+# One memory. Every AI. Owned by you.
 
-Build AI agents with minimal code - just composable reusable packages. More details in [agentage.io](https://agentage.io).
+The shared memory layer for every AI — one markdown memory that Claude, ChatGPT, Cursor, and any MCP agent read and write through a single connector. Cross-vendor, files-first, EU-resident, exportable anytime. Owned by you.
 
 ---
-- **[agentage.io](https://agentage.io)** - Simple marketplace, docs, playground
-- **[agentkit](https://github.com/agentage/agentkit)** - Simple toolkit (core + SDK)
-- **[desktop](https://github.com/agentage/desktop)** - Electron desktop app for running and managing agents
-- **[cli](https://github.com/agentage/cli)** - Cli tool for Agentage
+- **[agentage.io](https://agentage.io)** — product & waitlist
+- **MCP endpoint** — `https://memory.agentage.io/mcp`
+- **[Privacy](https://agentage.io/privacy)** · **[Terms](https://agentage.io/terms)**
 ---
+
+*Obsidian plugin & more clients coming soon.*
