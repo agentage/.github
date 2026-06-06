@@ -1,6 +1,6 @@
 # One memory. Every AI. Owned by you.
 
-The shared memory layer for every AI — one markdown memory that Claude, ChatGPT, Cursor, and any MCP agent read and write through a single connector. Cross-vendor, files-first, EU-resident, exportable anytime. Owned by you.
+The shared memory layer for every AI — one markdown memory that Claude, ChatGPT, Cursor, and any MCP agent read and write through a single connector. Cross-vendor, EU-resident, exportable anytime as plain markdown. Owned by you, never used for training.
 
 ---
 - **[agentage.io](https://agentage.io)** — product & waitlist
