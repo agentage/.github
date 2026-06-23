@@ -4,6 +4,7 @@ The shared memory layer for every AI — one markdown memory that Claude, ChatGP
 
 ---
 - **[agentage.io](https://agentage.io)** — product & waitlist
+- **[Documentation](https://agentage.io/docs)** — connect any AI to your memory
 - **MCP endpoint** — `https://memory.agentage.io/mcp`
 - **[Privacy](https://agentage.io/privacy)** · **[Terms](https://agentage.io/terms)**
 ---
