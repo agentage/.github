@@ -8,4 +8,13 @@ The shared memory layer for every AI — one markdown memory that Claude, ChatGP
 - **[Privacy](https://agentage.io/privacy)** · **[Terms](https://agentage.io/terms)**
 ---
 
-*Obsidian plugin & more clients coming soon.*
+### Clients & connectors
+
+- **[cli](https://github.com/agentage/cli)** - connect and manage your memory from the terminal
+- **[server-memory](https://github.com/agentage/server-memory)** - the MCP server every AI reads and writes through
+- **[memory-core](https://github.com/agentage/memory-core)** - config-driven multi-vault engine
+- **[obsidian-sync](https://github.com/agentage/obsidian-sync)** - Obsidian plugin, your memory as plain markdown
+- **[vscode-agentage](https://github.com/agentage/vscode-agentage)** - search your memory from VS Code & Cursor
+- **[obsidian-galaxy](https://github.com/agentage/obsidian-galaxy)** - see your vault as a 3D galaxy
+
+*More clients coming soon.*
