@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Agentage - One memory. Every AI. Owned by you." width="880">
+  <img src="./assets/banner.png" alt="Agentage" width="880">
 </p>
+
+# One memory. Every AI. Owned by you.
 
 The shared memory layer for every AI — one markdown memory that Claude, ChatGPT, Cursor, and any MCP agent read and write through a single connector. Cross-vendor, EU-resident, exportable anytime as plain markdown. Owned by you, never used for training.
 
